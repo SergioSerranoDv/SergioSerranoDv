@@ -1,5 +1,12 @@
+
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="https://img.freepik.com/free-photo/busy-programmer-typing-e-mails-illuminated-laptop-generative-ai_188544-32077.jpg?w=1380&t=st=1685811646~exp=1685812246~hmac=74f778df6c69b2b8adc4febb0164927a1d72eae44d5673bd5f977558c253917b">
+</picture>
+
 ### SergioDev 👨‍💻🌎 🇨🇴  
-I'm a software engineer building my own world. All coding projects are build following the best patterns in every stage of the process.
+
+I'm a software developer building my own world. All coding projects are build following the best patterns in every stage of the process. The new road is large and difficult, but with software you can enjoy too much. I'm always walling to contribute to open source projects and help the community.
+
 
 <!--
 **SergioSerranoDv/SergioSerranoDv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
