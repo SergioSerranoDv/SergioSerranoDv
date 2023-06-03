@@ -1,4 +1,5 @@
-### Hi there 👋
+### SergioDev 👨‍💻🌎 🇨🇴  
+I'm a software engineer building my own world. All coding projects are build following the best patterns in every stage of the process.
 
 <!--
 **SergioSerranoDv/SergioSerranoDv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
