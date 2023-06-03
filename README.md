@@ -1,6 +1,6 @@
 
 <picture>
- <img alt="YOUR-ALT-TEXT" src="https://img.freepik.com/free-photo/busy-programmer-typing-e-mails-illuminated-laptop-generative-ai_188544-32077.jpg?w=1380&t=st=1685811646~exp=1685812246~hmac=74f778df6c69b2b8adc4febb0164927a1d72eae44d5673bd5f977558c253917b">
+ <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw1nRFE6NCQdpdqkgXFHnKWY&ust=1685898671211000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCMhI3Mp_8CFQAAAAAdAAAAABAE">
 </picture>
 
 ### SergioDev 👨‍💻🌎 🇨🇴  
