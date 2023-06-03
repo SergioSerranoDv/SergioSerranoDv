@@ -1,8 +1,4 @@
 
-<picture>
- <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw1nRFE6NCQdpdqkgXFHnKWY&ust=1685898671211000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCMhI3Mp_8CFQAAAAAdAAAAABAE">
-</picture>
-
 ### SergioDev 👨‍💻🌎 🇨🇴  
 
 I'm a software developer building my own world. All coding projects are build following the best patterns in every stage of the process. The new road is large and difficult, but with software you can enjoy too much. I'm always walling to contribute to open source projects and help the community.
