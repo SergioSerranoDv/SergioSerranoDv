@@ -1,4 +1,4 @@
-I'm a software Enginner  building my own world. All coding projects are build following the best patterns in every stage of the process. The new road is large and difficult, but with software you can enjoy too much. I'm always walling to contribute to open source projects and help the community.>
+I'm a software Enginner building my own world.The new road is large and difficult, but with software you can enjoy too much. I'm always walling to contribute to open source projects and help the community.>
 
 <!--
 **SergioSerranoDv/SergioSerranoDv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
